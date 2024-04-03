@@ -8,3 +8,4 @@ This design is the first design of the application in HTML and CSS. The design i
   <li>Adding animations to make the design more interactive.</li>
   <li>Using JavaScript to make the design more interactive.</li>
 </ul>
+<p>Add this paragraph</p>
